@@ -29,7 +29,7 @@ I bring strong problem-solving abilities, teamwork, and a willingness to learn i
 - Admin-controlled approval system
 - Firebase Firestore rules & authentication
 
-🔗 [View Repository](https://github.com/Hadebe-Sizwe1806/employee-verification-system)
+🔗 [View Repository](https://github.com/Hadebe-Sizwe1806/Employee_System)
 
 ## 📂 Featured Projects
 
