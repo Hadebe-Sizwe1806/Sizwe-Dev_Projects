@@ -23,6 +23,14 @@ I bring strong problem-solving abilities, teamwork, and a willingness to learn i
 
 ---
 
+### 🔐 Employee Verification System
+- Secure employee verification workflow
+- Image upload for ID verification
+- Admin-controlled approval system
+- Firebase Firestore rules & authentication
+
+🔗 [View Repository](https://github.com/Hadebe-Sizwe1806/employee-verification-system)
+
 ## 📂 Featured Projects
 
 ### 📱 Consultation Booking App (Flutter)
@@ -40,21 +48,6 @@ I bring strong problem-solving abilities, teamwork, and a willingness to learn i
 - Integrated B2C e-commerce features
 
 🔗 [View Repository](https://github.com/yourusername/student-management-system)
-
----
-
-### 🔐 Employee Verification System
-- Secure employee verification workflow
-- Image upload for ID verification
-- Admin-controlled approval system
-- Firebase Firestore rules & authentication
-
-🔗 [View Repository](https://github.com/yourusername/employee-verification-system)
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hadebe-Sizwe1806&show_icons=true)
 
 ---
 
