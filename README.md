@@ -54,10 +54,10 @@ I bring strong problem-solving abilities, teamwork, and a willingness to learn i
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hadebe-Sizwe1806&show_icons=true)
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your@email.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 📧 sizwethulani52@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/sizwe-hadebe-a95052252
