@@ -24,13 +24,13 @@ I bring strong problem-solving abilities, teamwork, and a willingness to learn i
 
 ---
 
-### 🔐 Employee Verification System
+### 🔐 Employee System-Mobile App
 - Secure employee verification workflow
 - Image upload for ID verification
 - Admin-controlled approval system
 - Firebase Firestore rules & authentication
 
-🔗 [View Repository](https://github.com/Hadebe-Sizwe1806/Employee_System)
+🔗 [View Repository](https://github.com/Hadebe-Sizwe1806/Employee_System-Mobile_App)
 
 ## 📂 Featured Projects
 
