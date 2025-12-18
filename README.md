@@ -1,8 +1,8 @@
 # 👋 Hi, this is Sizwe Hadebe
 
-*🎓 Diploma in Information Technology Graduate 
-*💻 Junior Software Developer | Web & Mobile Applications  
-*Central University of Technology 📍 South Africa
+🎓 Diploma in Information Technology Graduate<br>
+💻 Junior Software Developer | Web & Mobile Applications<br>
+Central University of Technology 📍 South Africa<br>
 
 ---
 
