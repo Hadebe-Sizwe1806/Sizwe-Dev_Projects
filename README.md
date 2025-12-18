@@ -1,8 +1,8 @@
 # 👋 Hi, this is Sizwe Hadebe
 
-🎓 Diploma in Information Technology (Completed Nov 2025)  
+🎓 Diploma in Information Technology Graduate 
 💻 Junior Software Developer | Web & Mobile Applications  
-📍 South Africa
+Central University of Technology 📍 South Africa
 
 ---
 
