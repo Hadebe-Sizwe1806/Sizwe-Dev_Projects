@@ -2,7 +2,8 @@
 
 🎓 Diploma in Information Technology Graduate<br>
 💻 Junior Software Developer | Web & Mobile Applications<br>
-Central University of Technology 📍 South Africa<br>
+👨‍💻 Central University of Technology<br>
+📍 South Africa<br>
 
 ---
 
