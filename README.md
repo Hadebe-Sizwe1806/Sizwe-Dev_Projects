@@ -33,12 +33,12 @@ I bring strong problem-solving abilities, teamwork, and a willingness to learn i
 
 ## 📂 Featured Projects
 
-### 📱 Consultation Booking App (Flutter)
+### 📱 Consultation Booking App (Flutter and Firebase)
 - Mobile app for booking and managing consultations
 - Features authentication, real-time booking updates, profile image upload
 - State management using Provider
 
-🔗 [View Repository](https://github.com/yourusername/consultation-booking-app)
+🔗 [View Repository](https://github.com/Hadebe-Sizwe1806/Consultation_Booking_App)
 
 ---
 
