@@ -23,6 +23,7 @@ I bring strong problem-solving abilities, teamwork, and a willingness to learn i
 - **UI:** Bootstrap, HTML, CSS
 
 ---
+## 📂 Featured Projects
 
 ### 🔐 Employee System-Mobile App
 - Secure employee verification workflow
@@ -32,7 +33,19 @@ I bring strong problem-solving abilities, teamwork, and a willingness to learn i
 
 🔗 [View Repository](https://github.com/Hadebe-Sizwe1806/Employee_System-Mobile_App)
 
-## 📂 Featured Projects
+---
+
+### 🏫 Employe System-Web App
+- Secure employee authentication using Firebase Authentication
+- Role-based access control for Employees and Administrators
+- Admin dashboard for employee verification and management
+- One-time automatic admin seeding via Firebase Admin SDK
+- Cloud Firestore integration with structured access rules
+- Secure handling of credentials (no secrets committed to GitHub)
+
+🔗 [View Repository](https://github.com/Hadebe-Sizwe1806/Employee_System-Web_App)
+
+---
 
 ### 📱 Consultation Booking App (Flutter and Firebase)
 - Mobile app for booking and managing consultations
@@ -40,15 +53,6 @@ I bring strong problem-solving abilities, teamwork, and a willingness to learn i
 - State management using Provider
 
 🔗 [View Repository](https://github.com/Hadebe-Sizwe1806/Consultation_Booking_App)
-
----
-
-### 🏫 Student Management System & E-Commerce Platform (ASP.NET Core)
-- Role-based system (Admin, Student, Consumer)
-- Product management, student profiles, authentication
-- Integrated B2C e-commerce features
-
-🔗 [View Repository](https://github.com/yourusername/student-management-system)
 
 ---
 
